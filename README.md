@@ -1,6 +1,6 @@
 - Hi, I’m @nfletcher27
-- I’m interested in getting my bachelors degree and entering the tech industry
-- I’m currently learning Java and Python
+- I’m a freshman who plans on getting a bachelors of computer science and entering the tech industry
+- I’m currently learning Java, Python, JavaScript, HTML, and CSS
 - I’m looking to collaborate on anything that will give me experience
 - How to reach me - fletchernesta@gmail.com
 
