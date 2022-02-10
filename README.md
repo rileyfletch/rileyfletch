@@ -2,7 +2,7 @@
 - I’m a freshman who plans on getting a bachelors of computer science and entering the tech industry
 - I’m currently learning Java, Python, JavaScript, HTML, and CSS
 - I’m looking to collaborate on anything that will give me experience
-- How to reach me - fletchernesta@gmail.com
+- Email - fletchernesta@gmail.com LinkeIn - linkedin.com/in/nesta-fletcher-878627227
 
 <!---
 nfletcher27/nfletcher27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
