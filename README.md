@@ -1,6 +1,6 @@
 - Hi, I’m @nfletcher27
 - I’m a freshman who plans on getting a degree in computer science and entering the tech industry
-- I’m currently learning Java, Python, C++, and JS/HTML/CSS
+- I’m currently learning Java, Python, and JavaScript
 - I’m looking to collaborate on anything that will give me experience
 - Email - fletchernesta@gmail.com 
 
