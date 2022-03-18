@@ -1,5 +1,5 @@
 - Hi, I’m @nfletcher27
-- I’m a freshman who plans on getting a degree in computer science and entering the tech industry
+- I’m a 1st year CS student interested in software engineering, web development, and game production
 - I’m currently learning Java, JavaScript, and Python
 - I’m looking to collaborate on anything that will give me experience
 - Email - fletchernesta@gmail.com 
