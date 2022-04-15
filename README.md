@@ -1,6 +1,5 @@
 - Hi, I’m Nesta Fletcher
-- I’m a 1st year CS student who likes web development and game design
-- I'm interested in the software development industry
+- I’m a 1st year CS student who likes web/software development and game design
 - I’m currently learning Java, JavaScript, and Python
 - I’m looking to collaborate on anything that will give me experience
 - Email - fletchernesta@gmail.com 
