@@ -1,4 +1,4 @@
-## Nesta Fletcher
+# Nesta Fletcher
 
 ### Computer science major at Germanna community college
 
