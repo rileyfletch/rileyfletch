@@ -1,4 +1,5 @@
-Computer science major at Germanna community college
+* My name is Nesta Fletcher
+* I'm a CS major at Germanna Community College
 
 
 <!---
