@@ -1,8 +1,4 @@
-- Hi, I’m Nesta Fletcher
-- I’m a CS student who likes web development and game design
-- I’m currently learning Java, JavaScript, Python
-- I’m looking to collaborate on anything that will give me experience
-- Email - fletchernesta@gmail.com 
+Placeholder
 
 <!---
 nfletcher27/nfletcher27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
