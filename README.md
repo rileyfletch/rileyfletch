@@ -1,5 +1,6 @@
 * My name is Nesta Fletcher
-* I'm a CS major at Germanna Community College
+* Pursuing my A.S. in CS at Germanna Community College
+* Like to make games and design websites
 
 
 <!---
