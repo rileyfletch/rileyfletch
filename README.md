@@ -1,6 +1,7 @@
 * My name is Nesta Fletcher
 * Pursuing my A.S. in CS at Germanna Community College
 * Like to make games and design websites
+* Focusing on Java, Python, JavaScript, and C#
 
 
 <!---
