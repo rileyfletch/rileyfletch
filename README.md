@@ -1,4 +1,4 @@
-* My name is Nesta Fletcher
+
 * Studying computer science at community college
 * Interested in data analysis, making games, and web design
 
