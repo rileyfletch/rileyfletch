@@ -1,6 +1,6 @@
 
 * Studying computer science at community college
-* Learning Java, Python, JavaScript, and C
+* Learning Java, C, Python, and JavaScript
 
 <!---
 nfletcher27/nfletcher27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
