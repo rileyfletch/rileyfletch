@@ -1,6 +1,6 @@
 
 * Studying computer science at community college
-* Focused on learning Java, Python, and C with an interest in JavaScript webdev
+* Java, Python, & C
 * nfletcher27 @ LeetCode & Codewars
 
 <!---
