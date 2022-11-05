@@ -1,4 +1,4 @@
-Sophomore in community college majoring in computer science with an interest in application and web development
+Sophomore in community college majoring in computer science with an interest in software and web development
 
 https://www.codewars.com/users/nrfletcher https://leetcode.com/nrfletcher/
 
