@@ -1,5 +1,6 @@
 Sophomore in community college majoring in computer science with an interest in software and web development
 <br>
+<br>
 I also enjoy solving coding problems on [CodeWars](https://www.codewars.com/users/nrfletcher) and [LeetCode](https://leetcode.com/nrfletcher/)
 
 <!---
