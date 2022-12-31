@@ -1,4 +1,4 @@
-🎓 Sophomore in community college majoring in computer science planning to transfer Fall of '23 and graduate in '25
+🎓 Sophomore computer science major with a projected graduation of Spring '25
 <br>
 <br>
 📚 My interests are primarily in web development, app development, and machine learning
