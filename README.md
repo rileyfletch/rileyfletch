@@ -1,7 +1,7 @@
 🎓 Sophomore computer science major with a projected graduation of Spring '25
 <br>
 <br>
-📚 My interests are primarily in web development, app development, and machine learning
+📚 My interests are web development, app development, data science, & machine learning
 <br>
 <br>
 👨‍💻 Other places you can find me coding: [CodeWars](https://www.codewars.com/users/nrfletcher)  [LeetCode](https://leetcode.com/nrfletcher/)
