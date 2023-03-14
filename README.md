@@ -1,7 +1,7 @@
-🎓 Sophomore computer science major with a projected graduation of Spring '25
+🎓  Computer science major with a projected graduation of Spring '25
 <br>
 <br>
-📚 I am interested in topics like web development, app development, data science, game design, and machine learning
+📚 Topics of interest are web & app development, game design, and machine learning
 <br>
 <br>
 👨‍💻 Other places you can find me coding: [CodeWars](https://www.codewars.com/users/nrfletcher)  [LeetCode](https://leetcode.com/nrfletcher/)
