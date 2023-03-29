@@ -3,8 +3,6 @@
 <br>
 📚 Topics that interest me are web & app development, game design, and data science
 <br>
-<br>
-👨‍💻 Other places you can find me: [CodeWars](https://www.codewars.com/users/nrfletcher)  [LeetCode](https://leetcode.com/nrfletcher/)  [LinkedIn](https://www.linkedin.com/in/nrfletcher/)
 
 <!---
 nfletcher27/nfletcher27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
