@@ -1,4 +1,4 @@
-Computer science student with projected '25 graduation interested in software engineering
+Computer science major with projected '25 graduation interested in software engineering
 
 <!---
 nfletcher27/nfletcher27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
