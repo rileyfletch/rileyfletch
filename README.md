@@ -1,4 +1,4 @@
-Computer science major with projected '25 graduation interested in software engineering
+Computer science major with projected '25 graduation pursuing a career in software engineering
 
 Fields of interest are embedded systems, machine learning, web development, & app development
 
