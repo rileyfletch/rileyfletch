@@ -1,6 +1,6 @@
 Computer science major with projected '25 graduation pursuing a career in software engineering
 
-Fields of interest are embedded systems, machine learning, web development, & app development
+Fields of interest are embedded systems, data science, web development, & app development
 
 <!---
 nfletcher27/nfletcher27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
