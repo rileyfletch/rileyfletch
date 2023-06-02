@@ -1,7 +1,7 @@
 * Hi, I'm Riley Fletcher! 😎
 * I am a rising junior at the University of Virginia majoring in computer science 🔶
 * My projected graduation date is Spring of 2025 👨‍🎓
-* I am currently a software engineering intern and a previous IT intern 💻
+* I am currently a software engineering intern and previous IT intern 💻
 * Some of my interests are full stack webdev, data science, and embedded systems 👨‍💻
 
 <!---
