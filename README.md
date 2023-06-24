@@ -1,7 +1,7 @@
 * Hi, I'm Riley! 😎
 * I am a rising junior at the University of Virginia majoring in computer science 🔶
 * My projected graduation date is Spring of 2025 👨‍🎓
-* I am currently a software engineering intern and previous IT intern 💻
+* I have software engineering and information technology internship experience 💻
 * My interests are in full stack webdev, app development, data science, and embedded systems 👨‍💻
 
 <!---
