@@ -1,8 +1,9 @@
 ## Hi, I'm Riley 👋
 I'm a third year CS major at the University of Virginia
-My interests include but are not limited to:
 
-&rarr Web development, app development, data science, embedded systems
+I'm pursuing a career in software development
+
+Some of my interests are web/app development, data science, and embedded systems
 
 
 
