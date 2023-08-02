@@ -1,6 +1,10 @@
-* Hi, I'm Riley! 😎
-* I'm a junior at University of Virginia majoring in computer science with a projected graduation date of Spring '25
-* My interests are in full stack webdev, app development, data science, and embedded systems
+# Hey there...
+### I'm a third year CS major at the University of Virginia
+### My interests include but are not limited to:
+* Web development
+* App development
+* Data science
+* Embedded systems
 
 <!---
 nfletcher27/nfletcher27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
