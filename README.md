@@ -1,10 +1,7 @@
-# Hey there...
+# Hi, I'm Riley :)
 ### I'm a third year CS major at the University of Virginia
 ### My interests include but are not limited to:
-* Web development
-* App development
-* Data science
-* Embedded systems
+* Web development, app development, data science, embedded systems
 
 <!---
 nfletcher27/nfletcher27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
