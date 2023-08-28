@@ -1,5 +1,7 @@
 ## Hi, I'm Riley 👋
-I'm a third year computer science major at the University of Virginia with a minor in data science, and I am pursuing a career in software development. 
+I'm a 3rd year computer science major & data science minor at the University of Virginia, and I am pursuing a career in software development.
+
+I find interest in many fields, but the few that I especially enjoy learning about are web/mobile development, embedded systems, data science, and compilers.
 
 
 <!---
