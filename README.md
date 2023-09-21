@@ -1,5 +1,5 @@
 ## Hi, I'm Riley 👋
-I'm a 3rd year CS major @ UVA pursuing a career in software engineering. I love learning about web and mobile development, data science, and systems programming.
+I like learning about web and mobile development, data science, and systems programming.
 
 
 <!---
