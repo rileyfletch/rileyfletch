@@ -1,5 +1,5 @@
 ## Hi, I'm Riley 👋
-I like learning about web/mobile development, data science, and embedded programming.
+I like learning about web/mobile development, data science, and embedded systems.
 
 
 <!---
