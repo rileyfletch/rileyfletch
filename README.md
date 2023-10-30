@@ -1,5 +1,5 @@
 ## Hi, I'm Riley 👋
-Love to learn about web/mobile development, data science, and embedded systems
+I'm a 3rd year studying computer science and data science at UVA. I'm interested in web/mobile development, machine learning, and embedded systems.
 
 
 <!---
