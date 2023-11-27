@@ -1,5 +1,5 @@
 ## Hi, I'm Riley 👋
-Love to learn about software engineering, embedded systems, and machine learning.
+Interested in software engineering, embedded systems, and machine learning.
 
 
 <!---
