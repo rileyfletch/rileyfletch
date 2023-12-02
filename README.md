@@ -1,5 +1,5 @@
 ## Hi, I'm Riley 👋
-Interested in software engineering, embedded systems, and machine learning.
+I'm a computer science student pursuing a career in software engineering with interests in web development, embedded systems, and machine learning
 
 
 <!---
