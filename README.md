@@ -1,5 +1,5 @@
 ## Hi, I'm Riley 👋
-I'm a CS student pursuing a career in software engineering with interests in full-stack web development, embedded systems, and machine learning
+I'm pursuing a career in software engineering with interests in full-stack web development, embedded systems, and machine learning
 
 
 <!---
