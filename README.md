@@ -1,5 +1,6 @@
 ## Hi, I'm Riley 👋
-I'm pursuing a career in software engineering with interests in full-stack web development, embedded systems, and machine learning
+I'm a third year computer science major and data science minor at the University of Virginia.
+I'm particularly interested in full-stack web development, embedded systems, graphics programming, and machine learning. 
 
 
 <!---
