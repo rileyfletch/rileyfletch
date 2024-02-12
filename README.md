@@ -3,7 +3,7 @@
 
 👨‍💻 In my free time I'm learning about web development, machine learning, and systems programming.
 
-🏙️ My current goal is to become a full time software engineer.
+🏙️ I am pursuing a career as a full time software engineer upon graduation.
 
 
 
