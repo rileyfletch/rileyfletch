@@ -1,7 +1,8 @@
 ## Hi, I'm Riley 👋
-I'm a third year computer science major and data science minor at the University of Virginia.
+🏛️ I'm studying computer science and data science at the University of Virginia.
 
-I'm interested in full-stack web development, systems programming, and machine learning. 
+👨‍💻 In my free time I'm learning about web development, machine learning, and systems programming - but I love all things computer related.
+
 
 
 <!---
