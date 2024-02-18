@@ -1,7 +1,7 @@
 ## Hi, I'm Riley 👋
 🏛️ I'm studying computer science and data science at the University of Virginia.
 
-👨‍💻 In my free time I'm learning about web development, machine learning, and systems programming.
+👨‍💻 I like to learn about systems programming, machine learning, full stack web development, amongst other things.
 
 🏙️ I am pursuing a career as a full time software engineer upon graduation.
 
