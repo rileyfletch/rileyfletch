@@ -1,9 +1,5 @@
 ## Hi, I'm Riley 👋
-🏛️ I'm studying computer science and data science at the University of Virginia
-
-👨‍💻 I like to learn about full stack software development, cybersecurity, embedded systems, and machine learning
-
-🏙️ I am pursuing a career as a full time software engineer upon graduation
+I study computer science at The University of Virginia and have interests in systems programming, cybersecurity, and full stack software development.
 
 
 
