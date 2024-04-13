@@ -2,7 +2,7 @@
 I'm studying computer and data science at The University of Virginia.
 <br>
 <br>
-I have interest in systems programming, cybersecurity, and full stack software development.
+I'm interested in systems programming, cybersecurity, and full stack software development.
 
 
 
