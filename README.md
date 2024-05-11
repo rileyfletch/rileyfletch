@@ -1,4 +1,4 @@
-## Hi, I'm Riley 👋
+## Hi, I'm Riley
 * 🏛️ I'm studying computer and data science at The University of Virginia.
 * 💻 I like learning about systems programming, cybersecurity, machine learning, and full-stack web development.
 
