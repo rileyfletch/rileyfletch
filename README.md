@@ -2,8 +2,6 @@
 <h3 align="center">An aspiring software engineer</h3>
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nrfletcher&theme=highcontrast" alt="nrfletcher" />
-
 
 
 <!---
