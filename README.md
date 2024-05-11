@@ -1,6 +1,8 @@
-## Hi, I'm Riley
-* 🏛️ I'm studying computer and data science at The University of Virginia.
-* 💻 I like learning about systems programming, cybersecurity, machine learning, and full-stack web development.
+<h1 align="center">Hi 👋, I'm Riley</h1>
+<h3 align="center">An aspiring software engineer</h3>
+
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nrfletcher&theme=highcontrast" alt="nrfletcher" />
 
 
 
