@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Riley</h1>
-<h4 align="center">An aspiring software engineer interested in systems programming, cybersecurity, hardware, and backend development</h3>
+<h1 align="center">Hi 👋, I'm Riley</h1>
+<h3 align="center">A computer science student and aspiring software engineer interested in systems programming, cybersecurity, computer hardware, and backend development</h3>
 
 
 
