@@ -1,12 +1,18 @@
-<div align="center">
-  <h3 align="center">👋 Hey, I'm Riley</h3>
-  🏛️ I'm currently studying computer science and data science @ The University of Virginia
-
-🏢 Previously I've done software engineering @ Dell Technologies and the U.S. Navy
-
-💻 My interests revolve around areas such as operating systems, distributed systems, and infrastructure tooling
+<div align="left">
+  <h2>👋 Hey, I'm Riley</h1>
+  <p align="left" style="margin: 2px 0;">
+    🏛️ I'm currently studying computer science and data science @ <a href="https://www.virginia.edu/">University of Virginia</a>
+  </p>
+  <p align="left" style="margin: 2px 0;">
+    🏢 Previously I've done software engineering @ <a href="https://www.dell.com/">Dell Technologies</a> and the <a href="https://www.navy.mil/">U.S. Navy</a>
+  </p>
+  <p align="left" style="margin: 2px 0;">
+    💻 My interests revolve around areas such as operating systems, networks, and distributed systems
+  </p>
+  <p align="left" style="margin: 2px 0;">
+    📱 You can contact me @ <a href="https://www.linkedin.com/in/nrileyfletcher">LinkedIn</a>, via <a href="mailto:your-email@example.com">email</a>, or learn more about me at <a href="https://nrileyfletcher.com/">nrileyfletcher.com</a>
+  </p>
 </div>
-
 
 <!---
 nfletcher27/nfletcher27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
