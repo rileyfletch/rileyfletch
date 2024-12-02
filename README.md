@@ -4,7 +4,7 @@
     🏛️ I'm currently studying computer science and data science @ <a href="https://www.virginia.edu/">University of Virginia</a>
   </p>
   <p align="left" style="margin: 2px 0;">
-    🏢 Previously I've done software engineering @ <a href="https://www.dell.com/">Dell Technologies</a> and the <a href="https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Dahlgren/)">U.S. Navy</a>
+    🏢 Previously I've done software engineering @ <a href="https://www.dell.com/">Dell Technologies</a> and the <a href="https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Dahlgren/)">United States Navy</a>
   </p>
   <p align="left" style="margin: 2px 0;">
     💻 My interests revolve around areas such as operating systems, networks, and distributed systems
