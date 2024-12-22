@@ -10,7 +10,7 @@
     💻 I'm passionate about all things low-level: such as networks, security, distributed systems, embedded systems, and kernel development
   </p>
   <p align="left" style="margin: 2px 0;">
-    📱 You can contact me on <a href="https://www.linkedin.com/in/rileyfletcher">LinkedIn</a>, via <a href="mailto:nrileyfletcher@gmail.com">email</a>, or learn more about me at <a href="https://nrileyfletcher.com/">nrileyfletcher.com</a>
+    📱 You can contact me on <a href="https://www.linkedin.com/in/rileyfletcher">LinkedIn</a>, via <a href="mailto:nrileyfletcher@gmail.com">email</a>, or view my website and blog @ <a href="https://nrileyfletcher.com/">nrileyfletcher.com</a>
   </p>
 </div>
 
