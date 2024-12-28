@@ -7,7 +7,7 @@
     🏢  Previously I've done software engineering @ <a href="https://www.dell.com/">Dell Technologies</a> and the <a href="https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Dahlgren/)">United States Navy</a>
   </p>
   <p align="left" style="margin: 2px 0;">
-    💻  I'm passionate about all things low-level: networks, security, distributed systems, embedded systems, kernel development
+    💻  I like learning about operating systems, networks, security, and really anything low-level
   </p>
   <p align="left" style="margin: 2px 0;">
     📱  You can contact me on <a href="https://www.linkedin.com/in/rileyfletcher">LinkedIn</a>, via <a href="mailto:nrileyfletcher@gmail.com">email</a>, or view my website and blog @ <a href="https://nrileyfletcher.com/">nrileyfletcher.com</a>
